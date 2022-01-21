@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'pawhub-db',
         'HOST': 'localhost',
-        'Port': 5432
+        'PORT': 5432
     }
 }
 
