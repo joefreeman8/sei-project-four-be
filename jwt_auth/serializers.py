@@ -31,4 +31,9 @@ class UserRegistrationSerializer(serializers.ModelSerializer):
         model = User
         fields = '__all__'
 
+class UserProfileSerializer():
+
+    class Meta:
+        model = User
+        fields = ('id', 'username')
 

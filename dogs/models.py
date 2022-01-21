@@ -18,3 +18,21 @@ class Dog(models.Model):
 
     def __str__(self):
         return f'{self.name}'
+
+class Favorite(models.Model):
+    '''favorite model'''
+
+    dog = models.ForeignKey(
+        Dog,
+        related_name='favorited_by',
+        on_delete=models.CASCADE
+    )
+    owner = models.ForeignKey(
+        'jwt_auth.User',
+
+        related_name='favorited_dog',
+        on_delete=models.CASCADE
+    )
+
+    def __self__(self):
+        return f'A favorite for {self.dog} by {self.owner}'
