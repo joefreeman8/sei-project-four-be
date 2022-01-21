@@ -1,6 +1,6 @@
 from rest_framework.generics import ListAPIView,     RetrieveUpdateDestroyAPIView, CreateAPIView, DestroyAPIView, RetrieveAPIView
-from .models import Dog, Favorite
-from .serializers import DogSerializer, FavoriteSerializer
+from .models import Dog, Favorite, Question
+from .serializers import DogSerializer, FavoriteSerializer, QuestionSerializer
 from .permissions import isOwnerOrReadyOnly
 from rest_framework.permissions import IsAuthenticatedOrReadOnly
 
@@ -17,6 +17,20 @@ class DogDetailView(RetrieveAPIView):
 
     queryset = Dog.objects.all()
     serializer_class = DogSerializer
+
+class QuestionListView(CreateAPIView):
+    '''View for /dogs/id/questions POST'''
+
+    queryset = Question.objects.all()
+    serializer_class = QuestionSerializer
+    permission_classes = (IsAuthenticatedOrReadOnly, )
+
+class QuestionDetailView(DestroyAPIView):
+    '''View for /dogs/id/questions/questionId DELETE'''
+
+    queryset = Question.objects.all()
+    serializer_class = QuestionSerializer
+    permission_classes = (isOwnerOrReadyOnly, )
 
 class FavoriteListView(CreateAPIView):
     ''' View for /dogs/id/favorites POST'''

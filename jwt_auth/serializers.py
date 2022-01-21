@@ -4,6 +4,8 @@ import django.contrib.auth.password_validation as validation
 from django.contrib.auth.hashers import make_password
 from django.core.exceptions import ValidationError
 
+from dogs.models import Dog, Favorite, Question
+
 User = get_user_model()
 
 class UserRegistrationSerializer(serializers.ModelSerializer):
@@ -31,9 +33,31 @@ class UserRegistrationSerializer(serializers.ModelSerializer):
         model = User
         fields = '__all__'
 
-class UserProfileSerializer():
+class NestedDogSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = Dog
+        fields = '__all__'
+
+class NestedFavoritesSerializer(serializers.ModelSerializer):
+    dog = NestedDogSerializer()
+
+    class Meta:
+        model = Favorite
+        fields = '__all__'
+
+class NestedQuestionSerializer(serializers.ModelSerializer):
+    dog = NestedDogSerializer()
+
+    class Meta:
+        model = Question
+        fields = '__all__'
+
+class UserProfileSerializer(serializers.ModelSerializer):
+
+    favorited_dogs = NestedFavoritesSerializer(many=True)
+    questions_posted = NestedQuestionSerializer(many=True)
 
     class Meta:
         model = User
-        fields = ('id', 'username')
-
+        fields = ('id', 'username', 'favorited_dogs', 'questions_posted')

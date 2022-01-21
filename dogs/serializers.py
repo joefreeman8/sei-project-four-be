@@ -1,6 +1,6 @@
-from dataclasses import fields
+from pickletools import read_floatnl
 from rest_framework import serializers
-from .models import Dog, Favorite
+from .models import Dog, Favorite, Question
 from django.contrib.auth import get_user_model
 
 User = get_user_model()
@@ -10,6 +10,21 @@ class NestedUserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
         fields = ('id', 'username')
+
+class QuestionSerializer(serializers.ModelSerializer):
+    '''Serializer for Questions'''
+
+    class Meta:
+        model = Question
+        fields = '__all__'
+
+class NestedQuestionSerializer(serializers.ModelSerializer):
+    '''Serializer for nested Questions'''
+    owner = NestedUserSerializer()
+
+    class Meta:
+        model = Question
+        fields = '__all__'
 
 class FavoriteSerializer(serializers.ModelSerializer):
     '''Serializer for the favorites'''
@@ -31,6 +46,7 @@ class DogSerializer(serializers.ModelSerializer):
     '''Serializer for Dogs'''
 
     favorited_by = NestedFavoriteSerializer(many=True, read_only=True)
+    questions = NestedQuestionSerializer(many=True, read_only=True)
 
     class Meta:
         model = Dog

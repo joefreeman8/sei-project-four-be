@@ -1,14 +1,14 @@
 from datetime import datetime, timedelta
 from rest_framework.views import APIView
 from rest_framework.response import Response
-from rest_framework.generics import CreateAPIView
+from rest_framework.generics import CreateAPIView, RetrieveAPIView
 from rest_framework.exceptions import PermissionDenied
-# from rest_framework.permissions import IsAuthenticated
+from rest_framework.permissions import IsAuthenticated
 from django.contrib.auth import get_user_model
 from django.conf import settings
 import jwt
 
-from.serializers import UserRegistrationSerializer
+from.serializers import UserProfileSerializer, UserRegistrationSerializer
 User = get_user_model()
 
 class UserRegisterView(CreateAPIView):
@@ -44,3 +44,11 @@ class UserLoginView(APIView):
             'token': token,
             'message': f'Welcome back {user_to_login.username}'
         })
+
+
+class UserProfileView(RetrieveAPIView):
+    '''View for User Profile'''
+
+    queryset = User.objects.all()
+    serializer_class = UserProfileSerializer
+    permission_classes = (IsAuthenticated, )

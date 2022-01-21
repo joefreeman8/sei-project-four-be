@@ -30,9 +30,27 @@ class Favorite(models.Model):
     owner = models.ForeignKey(
         'jwt_auth.User',
 
-        related_name='favorited_dog',
+        related_name='favorited_dogs',
         on_delete=models.CASCADE
     )
 
     def __self__(self):
         return f'A favorite for {self.dog} by {self.owner}'
+
+class Question(models.Model):
+    '''Question Model'''
+    content = models.TextField(max_length=300)
+    created_at = models.DateTimeField(auto_now_add=True)
+    dog = models.ForeignKey(
+        Dog,
+        related_name='questions',
+        on_delete=models.CASCADE
+    )
+    owner = models.ForeignKey(
+        'jwt_auth.User',
+        related_name='questions_posted',
+        on_delete=models.CASCADE
+    )
+
+    def __str__(self):
+        return f'Question {self.id} on Dog {self.dog}'
