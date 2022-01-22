@@ -1,0 +1,419 @@
+[
+{
+  "model": "dogs.dog",
+  "pk": 1,
+  "fields": {
+    "name": "Boo",
+    "breed": "Greyhound",
+    "age": "5",
+    "sex": "Female",
+    "home_details": "Boo is looking for a nice quiet home where people will be around a lot of the time. She would love a garden to burn off some energy off in.",
+    "about": "Boo loves nothing more than sleeping, eating sausages and a going for brief walks. She is a small greyhound with a big personality. She is unphased by other dogs, but can be very watchful of other smaller animals.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-22T16:45:53Z",
+    "image_one": "image",
+    "image_two": null,
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 2,
+  "fields": {
+    "name": "Bailey",
+    "breed": "English Springer Spaniel",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "Bailey is looking for an adult only home with previous dog experience and someone who is willing to train; he is shy with new people but soon comes round. Bailey has successfully lived with dogs in the past so could have a doggy pal in his new home pending meets. Bailey travels well and knows all hi",
+    "about": "Bailey is a sweet 5 year old Springer Spaniel. He enjoys human company when he becomes comfortable. He is a super friendly boy and enjoys his walks and travelling in the car.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-08-03T12:00:00Z",
+    "image_one": "https://i.imgur.com/aXLTb52b.jpg",
+    "image_two": "https://i.imgur.com/nkLfBXgb.jpg",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 3,
+  "fields": {
+    "name": "Barney",
+    "breed": "Dachshund",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "Barney is a beautiful little guy who loves his walks and has big energy levels for such a small boy. Barney is looking for an understanding, adult only home with no visiting children, a quiet home with 2 adults would be ideal as Barney struggles with busy households. Barney can be selective with dog",
+    "about": "Barney will benefit from quiet walking areas to decompress. It is important that Barney's potential adopters are able to travel to the Ballymena Rehoming Centre quite regularly, he has shown some challenging behaviours within his previous home, this will all be discussed with the training team if successful.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-02T16:51:13Z",
+    "image_one": "https://imgur.com/uiJLk0S",
+    "image_two": null,
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 4,
+  "fields": {
+    "name": "Beau",
+    "breed": "German Shepherd",
+    "age": "2 to 5 Years",
+    "sex": "Female",
+    "home_details": "Beau is a stunning 2 year old GSD who still acts like a big puppy, she loves her toys and enjoys learning new tricks for treats. Beau is looking for an adult only, experienced home; she can be wary of strangers and reactive to dogs so will need quiet walking areas.",
+    "about": "Beau will require several meets at the centre before going to her forever home. Beau would also need to be the only pet in the home.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-06-01T16:52:26Z",
+    "image_one": "https://imgur.com/uqU7Q9g",
+    "image_two": "https://imgur.com/gP54s5G",
+    "image_three": "https://imgur.com/6JK3K2V"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 5,
+  "fields": {
+    "name": "Bella",
+    "breed": "Pug",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "Bella may take a little longer to come around to her new adopters, so a couple of meets would be important. Drake and Bella are not showing any signs of being house trained so it is important that their new adopter will understand and work with this.",
+    "about": "Bella is a super 7 year old Pug. She came into the centre with her male companion Drake. She is a little bit more nervous than her companion. She enjoys the comforts of her warm bed and dinner time.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-10-17T16:55:37Z",
+    "image_one": "https://imgur.com/8F8kJ9b",
+    "image_two": "https://imgur.com/pUABdv1",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 6,
+  "fields": {
+    "name": "Bernadette",
+    "breed": "Collie",
+    "age": "0 to 6 Months",
+    "sex": "Female",
+    "home_details": "Bernadette is looking for a home with someone around for the majority of the day to provide her with all of her basic training and socialisation. Her adopters will need to be willing to attend our wonderful Dog School Training classes and to put in lots of extra work at home.",
+    "about": "Bernadette is a sweet puppy who is also full of life and mischief. She loves playing with toys and getting cuddles.Bernadette will be ready for adoption when she is 8 weeks old. She is one of a larger litter.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": true,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-22T16:58:04Z",
+    "image_one": "https://imgur.com/WKwDcD8",
+    "image_two": null,
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 7,
+  "fields": {
+    "name": "Brody",
+    "breed": "Chinese Crested Dog",
+    "age": "8 and over",
+    "sex": "Male",
+    "home_details": "Brody is looking for a calm and quiet adult only home with no children and no visiting children, he does need someone around with him for most of the day and prefers his walks to be away from traffic. When Brody is feeling playful he likes a soft toy, otherwise he is quite happy.",
+    "about": "Brody can be shy when he first meets new people but he does come round in his own time and can be a very affectionate little dog who enjoys cuddles once he gets to know and trust someone. He is not keen being left on his own and prefers to be in the bed with you at night time. A foster family are providing Brody with lots of love and attention until he is adopted, if you would like to discuss Brody's medical needs, please get in touch. Brody is 8 years old.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-08-16T16:59:50Z",
+    "image_one": "https://imgur.com/cVvWycH",
+    "image_two": "https://imgur.com/9OQiINe",
+    "image_three": "https://imgur.com/ZOHJPlg"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 8,
+  "fields": {
+    "name": "Bruiser",
+    "breed": "Terrier Cross",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "Bruiser is a cute little terrier cross who is 7 years old. He is a friendly little guy who enjoys his walkies and playing fetch, Bruiser would be best suited to an adult only home with no other pets.  Bruiser is a bit of an escape artist, so a secure garden is a must.",
+    "about": "He will need plenty of quiet walking areas away from other dogs. Bruiser is not a fan of dogs in his face and will be required to be walked on a lead.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-01-05T17:01:56Z",
+    "image_one": "https://imgur.com/P8S6j5q",
+    "image_two": "https://imgur.com/np8kXCO",
+    "image_three": "https://imgur.com/yNvotNc"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 9,
+  "fields": {
+    "name": "Casper",
+    "breed": "Terrier Cross",
+    "age": "8 and over",
+    "sex": "Male",
+    "home_details": "Casper is worried by busy environments and needs a quiet adult only home with no visiting children and few visiting adults. He does find walks stressful and so needs a home with a decent sized secure garden.",
+    "about": "Casper is a great doggy companion, he is a shy but very sweet natured and clever boy looking for a quiet home. He is housetrained and loves a snuggle once he gets to know you, his favourite toy to play with is a ball! Casper does not like it when people leave the house and is currently on a training plan. Casper prefers to know you are closeby and likes to sleep in the bedroom with you at night. He needs to be the only dog in the home and needs a home where he is rarely going to be left alone.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-11-07T17:08:15Z",
+    "image_one": "https://imgur.com/a6Rmc5a",
+    "image_two": "https://imgur.com/7IqUrtt",
+    "image_three": "https://imgur.com/5oLTswy"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 10,
+  "fields": {
+    "name": "Cleo",
+    "breed": "Terrier Cross",
+    "age": "2 to 5 Years",
+    "sex": "Female",
+    "home_details": "Cleo is seeking an active home with a large secure garden, with no neighbouring dogs. She can get really worked up when she sees other dogs and will need to be taken to quiet areas for walking.",
+    "about": "Cleo is a real livewire who is 3 years old, she is a very busy girl with bundles of energy. Cleo can be a little shy at first but soon comes round and when she does you have a best friend for life! she loves toys, especially a tennis ball. Due to Cleo's activity levels she would be best suited to a home with older teenage kids ages 16 and up. New owners ideally will have some previous training knowledge and be keen to work with Cleo.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-03T17:09:15Z",
+    "image_one": "https://imgur.com/icDhAVw",
+    "image_two": "https://imgur.com/4yjb8Ac",
+    "image_three": "https://imgur.com/KYJsm6q"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 11,
+  "fields": {
+    "name": "Dougie",
+    "breed": "Rottweiler",
+    "age": "2 to 5 Years",
+    "sex": "Male",
+    "home_details": "Dougie will need understanding owners that can manage his limited eyesight well and have no other pets at home. He needs someone that will manage his medical needs well.",
+    "about": "Dougie is approx 2-3 years old. An adorable, sensitve fella who takes his time getting to know people. Dougie's favourite snack is sausage and he enjoys a snuggle from the carers he knows. He is getting more and more confident every day.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-12-25T17:10:56Z",
+    "image_one": "https://imgur.com/76mYNl3",
+    "image_two": "https://imgur.com/ONdWIFT",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 12,
+  "fields": {
+    "name": "Drake",
+    "breed": "Pug",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "It is ideal that someone is around most of the day to allow Drake to settle into his new home. Drake has some minor health requirements that can be discussed fully during the rehoming process.",
+    "about": "Drake is a super 6 year old Pug. He came into the centre with his female companion Bella. He really enjoys her company and is fond of meeting new people. He really enjoys having people around during the day and loves the comfort of his bed.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-10-05T17:12:27Z",
+    "image_one": "https://imgur.com/FRm9pSa",
+    "image_two": "https://imgur.com/DLXUCzr",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 13,
+  "fields": {
+    "name": "Grieves",
+    "breed": "Collie",
+    "age": "5 to 7 Years",
+    "sex": "Make",
+    "home_details": "Grieves is looking for a relaxed household with older teenage children, he needs quiet walking areas and someone who can help with his dog reactivity.",
+    "about": "Grieves is a lovely 6 year old Border Collie who was found straying, he unfortunately had damaged his leg and despite efforts to save his leg the kindest option was to have it removed, this however doesn't stop Grieves from being a super happy guy and he can move really well with 3 legs! according to Grieves a tennis ball is life and if you play with him you will have a best friend for life!",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-11-14T17:13:53Z",
+    "image_one": "https://imgur.com/bHraev3",
+    "image_two": "https://imgur.com/LseAZp2",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 14,
+  "fields": {
+    "name": "Hollie",
+    "breed": "Spaniel Cross",
+    "age": "8 and Over",
+    "sex": "Female",
+    "home_details": "Hollie is looking for a quiet, adult only home; preferably 1-2 people in the new home with previous dog experience. Hollie would benefit from someone who is willing to take on some training and management around handling and visitors.",
+    "about": "Hollie is a super sweet 10 year old crossbreed who enjoys the quiet life, her favourite thing is to snooze in her little den that her carers made for her. She can be shy on first meeting but soon comes round, especially if you have treats! She enjoys a little dander and sometimes she likes to play fetch with a tennis ball.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-03T17:14:48Z",
+    "image_one": "https://imgur.com/KETqRkc",
+    "image_two": null,
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 15,
+  "fields": {
+    "name": "Jack",
+    "breed": "Lab Cross",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "Jack is seeking for an owner with time to refresh his basic training as he was recently kept outside; he could share his home with children 12 and up. Jack would benefit from being the only dog in his new home but could have doggy pals.",
+    "about": "Jack is a lovable 5 year old Lab X who loves a fuss, he's enjoyed meeting new people and dogs at the centre; his favourite toy is a tennis ball which he happily carries about. Jack is full of enthusiasm and can sometimes be a little strong on lead.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-11-14T17:19:31Z",
+    "image_one": "https://imgur.com/X6W96Uk",
+    "image_two": null,
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 16,
+  "fields": {
+    "name": "Jess",
+    "breed": "Border Collie",
+    "age": "2 to 5 Years",
+    "sex": "Female",
+    "home_details": "Jess is looking for a home ideally with collie experience, she could live with kids ages 12 and up. Jess hasn't had much experience in a home environment, she can be quite sensitive to certain noises and will need understanding owners who will help her overcome this.",
+    "about": "Say hello to beautiful Jess, this 3 year old collie is a very friendly lady who loves getting a fuss and a pet. Jess loves her toys and enjoys feeding enrichment which keeps her entertained in her kennel. She is also very sensitive to traffic noises and will need a home in a quiet location, with quiet walking areas; she could share her home with another doggy pal, pending meets.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-01T17:21:11Z",
+    "image_one": "https://imgur.com/Nt6GrtT",
+    "image_two": "https://imgur.com/Zvnu3EQ",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 17,
+  "fields": {
+    "name": "Maisy",
+    "breed": "Terrier Cross",
+    "age": "8 and Over",
+    "sex": "Female",
+    "home_details": "Maisy is looking for a quiet home environment with access to a secure garden of her own, due to her age and mobility she finds it easier walking on carpets or non-slip floors inside. Maisy will need to be the only pet in the home and would rather an adult only home.",
+    "about": "Maisy is a very sweet and gentle little lady who is shy and quiet but once she does build up some trust with you she enjoys a bit of a scratch but is not keen on lots of handling. She is happy relaxing for the majority of the day but does like a dander in quiet familiar areas where there aren't too many people or dogs. In her foster home Maisy has enjoyed playing fetch with treats and is starting to enjoy enrichment toys with food.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-10-18T17:22:20Z",
+    "image_one": "https://imgur.com/tWASLAu",
+    "image_two": "https://imgur.com/Rs5Qc1b",
+    "image_three": "https://imgur.com/JS1SGnq"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 18,
+  "fields": {
+    "name": "Ollie",
+    "breed": "Shar-Pei",
+    "age": "2 to 5 Years",
+    "sex": "Male",
+    "home_details": "Ollie takes his time getting to know new people so potential adopters will need multiple visits before going to his forever home, as he can be cautious of new people he is looking for an adult only home with few visitors and no children.",
+    "about": "Ollie is a big lovable lump who can build an incredible bond with people once he knows he can trust you; he has never really grown up but that part of his charm as he always puts a smile on his carers faces. Ollie loves to learn new tricks and has loads already under his belt, like paw and go to bed! His favourite toy is a stuffed animal and he has quite an impressive collection in his kennel.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-02T17:23:35Z",
+    "image_one": "https://imgur.com/pHvjvdP",
+    "image_two": null,
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 19,
+  "fields": {
+    "name": "Teddy",
+    "breed": "Lab Cross",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "Teddy is a lively, bouncy big Labrador mix who is looking for a quiet, experienced home. He loves his food and his toys and is a really clever boy who loves to learn new tricks! He also enjoys getting out in the car.",
+    "about": "Teddy has some behavioural issues which need to be carefully managed, he can be worried by handling and has been known to guard things of high value, due to this Teddy is looking for an ADULT only experienced home.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-10T17:25:22Z",
+    "image_one": "https://imgur.com/NiTNUGv",
+    "image_two": "https://imgur.com/IhMm8Ml",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 20,
+  "fields": {
+    "name": "Vicky",
+    "breed": "Collie Cross",
+    "age": "2 to 5 Years",
+    "sex": "Female",
+    "home_details": "Vicky will need a couple of meets at the centre with her new adopters, she may benefit from living with another suitable dog in the home and can live with kids aged 16 plus.",
+    "about": "Vicky enjoys her daily exercise and the company of humans. She likes being out and about with other dogs. Vicky is looking for patient owners who understand her needs, preferable that the adopters have breed experience and that can continue with her confidence building and training.Vicky is a lovely 2 year old Collie.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-09T17:26:39Z",
+    "image_one": "https://imgur.com/ZwznOoV",
+    "image_two": "https://imgur.com/QahqNDV",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 21,
+  "fields": {
+    "name": "Zed",
+    "breed": "Crossbreed",
+    "age": "2 to 5 Years",
+    "sex": "Male",
+    "home_details": "Zed can be unsure of new people but brilliant once he's got to know people. He is looking for a quiet adult only home who have previous training experience.",
+    "about": "Zed is a lively big boy who loves his walks, toys and tasty treats( especially cheese!) He is a very clever boy who enjoys learning new tricks. He has been introduced to clicker training whilst at the centre.Zed will need quiet walking areas away from traffic. He is a strong boy on lead so will need someone physically strong enough to manage him. He would love to do canicross,agility or scent work.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-18T17:29:21Z",
+    "image_one": "https://imgur.com/GYodymV",
+    "image_two": "https://imgur.com/JQvNY8R",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.favorite",
+  "pk": 1,
+  "fields": {
+    "dog": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "dogs.question",
+  "pk": 1,
+  "fields": {
+    "content": "Is he the best boy?",
+    "created_at": "2022-01-22T16:46:14.852Z",
+    "dog": 1,
+    "owner": 1
+  }
+}
+]

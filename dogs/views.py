@@ -1,4 +1,4 @@
-from rest_framework.generics import ListAPIView,     RetrieveUpdateDestroyAPIView, CreateAPIView, DestroyAPIView, RetrieveAPIView
+from rest_framework.generics import ListAPIView,  RetrieveUpdateDestroyAPIView, CreateAPIView, DestroyAPIView, RetrieveAPIView
 from .models import Dog, Favorite, Question
 from .serializers import DogSerializer, FavoriteSerializer, QuestionSerializer
 from .permissions import isOwnerOrReadyOnly

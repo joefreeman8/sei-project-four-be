@@ -1,4 +1,3 @@
-from pickletools import read_floatnl
 from rest_framework import serializers
 from .models import Dog, Favorite, Question
 from django.contrib.auth import get_user_model
