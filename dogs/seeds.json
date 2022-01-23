@@ -1159,6 +1159,386 @@
   }
 },
 {
+  "model": "dogs.dog",
+  "pk": 62,
+  "fields": {
+    "name": "Ace",
+    "breed": "American Bulldog",
+    "age": "8 and over",
+    "sex": "Male",
+    "home_details": "Don't be fooled by his age, he is an active boy who loves to get out for walks! He adores spending time with people and will thrive in a multi person household so that someone is always home as he does suffer from separation anxiety.",
+    "about": "Ace can live with children over the age of 14 he must be the only pet. Ace is really not a fan of other dogs so would prefer to be walked in areas where he won't have to mix with other dogs.  He loves to play but prefers swap games with his toys. He will have a little cuddle but on his own terms, toys are more important to him!",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-02T13:37:57Z",
+    "image_one": "https://imgur.com/PyjixZY",
+    "image_two": "https://imgur.com/05cRUHA",
+    "image_three": "https://imgur.com/rGCoJfT"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 63,
+  "fields": {
+    "name": "Arnie",
+    "breed": "Staffordshire Cross (SBT)",
+    "age": "8 and over",
+    "sex": "Male",
+    "home_details": "An older Dog, looking for a nice and quiet retirement home. He really likes his human company and gets distressed when left alone so will need someone to be at home at all times. Arnie can be a little unsure of handling so his new family have to take things slowly until he is fully comfortable.",
+    "about": "11-year-old Arnie has to be the only pet in the home but due to his age prefers calm walking buddies when out and about. He would like to have access to his own secure garden to enjoy pottering around in. Arnie can live with sensible children over the age of 14 years",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-17T14:07:38Z",
+    "image_one": "https://imgur.com/gCd5Vlk",
+    "image_two": null,
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 64,
+  "fields": {
+    "name": "Bailey",
+    "breed": "Collie Cross (Border)",
+    "age": "6 to 12 Months",
+    "sex": "Male",
+    "home_details": "Bailey is looking for an experienced and active home who have had working collies or similar and have the time to put in a lot training, mental and physical stimulation. Luckily Bailey loves his food which makes training easier.",
+    "about": "One-year-old Baily needs a rural home away from traffic and a secure private garden for some off lead fun as he currently has not recall. He has not had the best start to life and will have to have his new family around him at all times as he can be destructive when left alone. Bailey can live with dog savvy children over the age of 14 years.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": true,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-20T14:09:48Z",
+    "image_one": "https://imgur.com/ltfNuiV",
+    "image_two": "https://imgur.com/N7wauQw",
+    "image_three": "https://imgur.com/UThLbNK"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 65,
+  "fields": {
+    "name": "Caleb",
+    "breed": "Lab Cross",
+    "age": "2 to 5 Years",
+    "sex": "Male",
+    "home_details": "Caleb is a sensitive lad looking for a very special home with experience of owning rescue dogs that need extra help. He needs a rural home with very few visitors where he can go on plenty of walks without bumping into unknown people or other dogs.",
+    "about": "2 and a half year old Caleb will need an adult only home with a maximum of 2 people, and no visiting children. He finds the world a very scary place at times so is looking for a very understanding new owner who will accept him for who he is - quirks and all. Caleb needs to be kept on lead and muzzled in public due to his worries around strangers and other dogs.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-12-24T14:12:23Z",
+    "image_one": "https://imgur.com/Iozn6Ub",
+    "image_two": "https://imgur.com/yLgtn88",
+    "image_three": "https://imgur.com/nuCX6aT"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 66,
+  "fields": {
+    "name": "Charmer",
+    "breed": "Greyhound",
+    "age": "2 to 5 Years",
+    "sex": "Male",
+    "home_details": "He enjoys human company and would love a home with a private garden that he can zoom about in. Charmer will need to stay on lead and wear his muzzle when out on walks as he has a high chase drive. He gets on well with other greyhounds and large breeds.",
+    "about": "Four-year-old Charmer is an ex-racing Greyhound he is a lively bouncy boy with lots of energy.  Charmer is looking for an adult only home and due to an old racing injury, he would like to be the only pet in his new home he cannot live with cats or small furries. Charmer will need his alone time built up slowly in his new home.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-11-20T14:15:27Z",
+    "image_one": "https://imgur.com/wyQQMC4",
+    "image_two": "https://imgur.com/ZfxovE5",
+    "image_three": "https://imgur.com/aHEPZBa"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 67,
+  "fields": {
+    "name": "Dobby",
+    "breed": "Dobermann",
+    "age": "6 to 12 Months",
+    "sex": "Male",
+    "home_details": "He has lots of energy and is very smart so is looking for a new home where his adopters enjoy providing lots of mental stimulations/games and enrichment. Dobby will need most of his puppy training from scratch and he needs to learn how to be calm as he can bet overly excited.",
+    "about": "Dobby is such a sweet youngster who loves nothing more than cuddles on your lap.  6-months-old Dobby will need to have access to a secure private garden and could potentially live with a steady, neutered dog who can be a role model for him. He can live with dog savvy children over the age of 11 years old. Leaving time will have to be build up slowly as he is still a pup.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-18T14:17:37Z",
+    "image_one": "https://imgur.com/3opPNgs",
+    "image_two": "https://imgur.com/IDPoJHP",
+    "image_three": "https://imgur.com/Xl13Sgf"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 68,
+  "fields": {
+    "name": "King Kazen",
+    "breed": "Siberian Husky",
+    "age": "8 and over",
+    "sex": "Male",
+    "home_details": "Kazen is a big beautiful boy with a sensitive soul, looking for a new home with a family who are experienced with rescue dogs and ideally malamutes or huskies as Kazen is very typical of the breed.  He enjoys going for walks and knows to take treats gently from your hand.",
+    "about": "9 year-old Kazen is looking for a calm, quiet, single adult household with no visiting children to understand his needs and accept him for who he is. He can be very strong on the lead at times so will need his owner to be physically robust to be able to keep hold of him if he does decide he wants to go for an impromptu run! Kazen will need to be kept on the lead in public at all times so needs a private garden so that he can enjoy plenty of off-lead time too.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-12-09T14:20:47Z",
+    "image_one": "https://imgur.com/GAuBpZL",
+    "image_two": "https://imgur.com/4b6Xm6c",
+    "image_three": "https://imgur.com/EdlbLop"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 69,
+  "fields": {
+    "name": "Mac",
+    "breed": "Lurcher",
+    "age": "1 to 2 years",
+    "sex": "Male",
+    "home_details": "Mac is looking for a experienced home that can help build his confidence meeting new people. He can live with a maximum of two people and needs a quiet home with minimal visitors. Mac must have access to a private secure garden in his new home to zoom about in.",
+    "about": "Mac can be a real goofball at times and can often be seen keeping himself entertained in his kennel by throwing his toys about!  Mac must have an adult only home as he would find visiting children overwhelming. Mac may be able to have some calm walking buddies that are the same size as him but will need to be the only dog in the home. He cannot live with any small fluffy animals either. Mac was vocal when left in his previous home he will need his leaving hours built up very slowly.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-02T06:00:00Z",
+    "image_one": "https://imgur.com/orP4bXh",
+    "image_two": "https://imgur.com/370D3LN",
+    "image_three": "https://imgur.com/18j8mYS"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 70,
+  "fields": {
+    "name": "Maisy",
+    "breed": "Jack Russell Terrier (JRT)",
+    "age": "5 to 7 Years",
+    "sex": "Female",
+    "home_details": "From the history we have on her she needs a single person household with no pets at home. She needs you to be home all day with her as is distressed when she can't be around someone she knows.",
+    "about": "Lively and super spotty Maisy is five years old and it's safe to say she hasn't had the best of luck. Maisy enjoys a little fuss once she knows you and loves nothing more than rolling around in the grass with her favourite toys! She needs an adult only home with no visiting children as has shown aggression in the past around handling. Due to this, she is not suitable for first time owners and would like her new owner to have experience with rescue dogs.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-11-13T14:26:07Z",
+    "image_one": "https://imgur.com/5uBzVMb",
+    "image_two": "https://imgur.com/P0xeFkI",
+    "image_three": "https://imgur.com/eYgByY2"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 71,
+  "fields": {
+    "name": "Mr Blue Sky",
+    "breed": "Lurcher",
+    "age": "2 to 5 Years",
+    "sex": "Male",
+    "home_details": "Once he knows you he is a very cuddly boy. Due to his high chase drive he needs to wear his muzzle and kept on lead when out and about on adventures. Blue must have access to a private and secure garden in his new home as he loves to zoom around with his favourite toys.",
+    "about": "3.5-year-old brown eyed Blue is a sweet and affectionate boy who is looking for a quiet and understanding home as he can be fearful of meeting new people.  Blue must have an adult only home with no visiting children or other pets. Blue wants someone to be around for most of the time to begin with and leaving hours to be built up slowly.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-12T00:00:00Z",
+    "image_one": "https://imgur.com/O43uimo",
+    "image_two": "https://imgur.com/ZRnC22F",
+    "image_three": "https://imgur.com/4EqAsp5"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 72,
+  "fields": {
+    "name": "Parker",
+    "breed": "American Bulldog",
+    "age": "6 to 12 Months",
+    "sex": "Male",
+    "home_details": "Parker can be worried when meeting some new people so he would like his new family to be respectful of this and give him time to come out of his shell. Once he has gotten to know you, he loves a cuddle, he just needs some patience initially to say hi in his own time!",
+    "about": "Parker is a big beautiful young lad who came to us through no fault of his own. At only 11 months old Parker is already a big lad and doesn't know his size so can be strong and very bouncy so physically robust new owners who have good experience with bouncy large bull breeds before would be ideal.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-20T12:00:00Z",
+    "image_one": "https://imgur.com/cQqe47k",
+    "image_two": "https://imgur.com/Wt9RG3a",
+    "image_three": "https://imgur.com/IdWCzrT"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 73,
+  "fields": {
+    "name": "Paulo",
+    "breed": "Lab Cross",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "He is asking for his new home to have no more than two people living there and be able to commit to multiple visits here at the center. Paulo can be a worried lad and finds it hard to trust strangers. He is asking for you to have a private and secure garden for some carefree off lead time.",
+    "about": "This five-year-old handsome and shimmering coated boy is looking for an experienced new adopter who will accept his quirks and offer him a safe and quiet environment forever. Paulo wears a muzzle out and about as he can be worried if unknown people come too close. He will need to be the only pet in the home and not live with or have visiting children. However, once he has a bond, he is an affectionate lad who deserved to find a loving retirement home.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-12-31T14:33:37Z",
+    "image_one": "https://imgur.com/Ixo5a1E",
+    "image_two": "https://imgur.com/Xy5DJ4B",
+    "image_three": "https://imgur.com/VTgbsW5"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 74,
+  "fields": {
+    "name": "Sookie",
+    "breed": "Rottweiler",
+    "age": "1 to 2 years",
+    "sex": "Female",
+    "home_details": "Sookie is a sweet and fun girlie who has a sensitive side and can get overwhelmed easily. She is looking for a home in a quiet rural location with new adopters who are able to establish a daily routine with her once she gets home.",
+    "about": "Sookie is a sweet and fun girlie who has a sensitive side and can get overwhelmed easily. Sookie is looking for an adult only household with a maximum of 2 people and no visiting children. Sookie cannot live near any schools as this has proven to be very stressful for her in the past. She would like her adopters to have experience with owning rescue dogs, ideally large breeds and will need to be willing to carry on her reward-based training that she has started at the centre.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-01T14:35:59Z",
+    "image_one": "https://imgur.com/InZdh2C",
+    "image_two": "https://imgur.com/GBYAzsf",
+    "image_three": "https://imgur.com/QvteJf2"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 75,
+  "fields": {
+    "name": "Super Scout",
+    "breed": "Rottweiler",
+    "age": "2 to 5 Years",
+    "sex": "Male",
+    "home_details": "Super Scout is looking for an active family who are keen to keep him both physically and mentally stimulated as he's a clever boy who likes to use his brain. Super Scout has a high prey drive so will need to be kept on lead in public.",
+    "about": "Super Scout enjoys a calm cuddle with his favourite people but has been known to get a bit overwhelmed and over-excited at times which can lead to mouthing behaviours. Due to this he will need an adult only home without visiting children and cannot live with more than 2 people in his new home. Super Scout cannot live with any other pets and would benefit from ongoing socialisation with calm dogs out on walks as he can be reactive and sometimes shows off his super-sonic bark.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-12-14T14:40:20Z",
+    "image_one": "https://imgur.com/VDeOJR6",
+    "image_two": "https://imgur.com/QdWuaUT",
+    "image_three": "https://imgur.com/ykKMbZZ"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 76,
+  "fields": {
+    "name": "Thor",
+    "breed": "Siberian Husky",
+    "age": "2 to 5 Years",
+    "sex": "Male",
+    "home_details": "Thor is looking for his forever family, who have the time and patience for him. He can be left for a few hours but loves to have people around so we wouldn't recommend leaving him for much longer than that initially. He is a big dog and strong on lead, so needs owners that can physically walk him.",
+    "about": "Thor is a Samoyed / Husky cross and exhibits breed traits of both, so would benefit from owners who are knowledgable about the breeds. He can be vocal around dogs and needs ongoing socialisation with other dogs so will need to be the only pet in the home. Thor can sometimes be worried when meeting new people and is a bit concerned if you over handle him. He is a looking for an adult only home willing to build up his confidence meeting new people.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-12-24T14:42:41Z",
+    "image_one": "https://imgur.com/1c3UkF2",
+    "image_two": "https://imgur.com/DuboOMx",
+    "image_three": "https://imgur.com/eY96zBn"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 77,
+  "fields": {
+    "name": "Vincent",
+    "breed": "Greyhound",
+    "age": "2 to 5 Years",
+    "sex": "Male",
+    "home_details": "Vincent loves to say hello to everyone he meets and enjoys a good fuss too. He does get worried about being left on his own however as he loves his human pals so much, so will need someone at home most the time to start with to slowly work on building up his leaving hours.",
+    "about": "4-year-old Vincent has a great history with children in his previous home so can live with children over 8 years old. He is an ex-racer so will need to be kept onlead and muzzled in public, which is another reason he would love his own garden - so that he can zoom about off lead during the day. Vincent is a bit unsure around other dogs and can sometimes be reactive so would like to be the only pet in the home, he could potentially have calm walking sighthound buddies when out and about.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-12-03T14:45:55Z",
+    "image_one": "https://imgur.com/DAFGjG6",
+    "image_two": "https://imgur.com/1MWdjMw",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 78,
+  "fields": {
+    "name": "Sasha",
+    "breed": "Crossbreed",
+    "age": "5 to 7 Years",
+    "sex": "Female",
+    "home_details": "It takes her a little while to come out of her shell meeting new people, but she has come on leaps and bounds while she has been with us and now gets excited to go out on her walks and enjoys a fuss from her favourite people.",
+    "about": "5-year-old Sasha is looking for a calm household and can live with teens over the age of 16, and she may need to meet her new family a few times to build up a relationship before going home. Experience of owning Rottweilers or similar breeds would be beneficial. Sasha is housetrained and can be left for short periods once she has had time to settle in at home. Sasha may potentially be able to live with another fully vaccinated and neutered dog pending a successful dog mix, but no other animals.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-09T14:48:45Z",
+    "image_one": "https://imgur.com/dqbbe3H",
+    "image_two": "https://imgur.com/WhK1hGl",
+    "image_three": "https://imgur.com/JrxX208"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 79,
+  "fields": {
+    "name": "Michonne",
+    "breed": "Crossbreed",
+    "age": "5 to 7 Years",
+    "sex": "Female",
+    "home_details": "Michonne is a sweet lady who loves cuddles and walks and is looking for a quiet retirement home where someone is at home for most of the time as she does not like to be left alone. Ideally her new family will have experience or knowledge of bull breeds.",
+    "about": "7-year-old Michonne needs to be rehomed to a house/bungalow with easy access to its own secure private garden. She has to be the only pet in the home but can live with calm and sensible children over the age of 11 years. Michonne travels well in the car",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-16T14:50:23Z",
+    "image_one": "https://imgur.com/lebCjYy",
+    "image_two": "https://imgur.com/g2FU6Zc",
+    "image_three": "https://imgur.com/YFyWxKt"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 80,
+  "fields": {
+    "name": "Lana",
+    "breed": "Greyhound",
+    "age": "8 and over",
+    "sex": "Female",
+    "home_details": "Lovely Lana is looking to see out her twilight years in her own retirement home, She loves nothing more than a leisurely stroll, followed by a relaxing snooze on the sofa.",
+    "about": "Lana can live with calm secondary school children, who are able to appreciate an older dog. She is fully house trained, and sleeps through the night. Lana is happy to meet new people but prefers to keep her distance from other dogs. Lana is also a great traveller in the car.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-10-20T14:52:32Z",
+    "image_one": "https://imgur.com/Mxur5pt",
+    "image_two": "https://imgur.com/kBttOlv",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 81,
+  "fields": {
+    "name": "Lucy",
+    "breed": "Lhasa Apso",
+    "age": "5 to 7 Years",
+    "sex": "Female",
+    "home_details": "She knows her own voice and will have a little bark when she gets excited meeting new people, and also when she needs to go to the toilet to let you know! She travels nicely in the car and walks well on the lead too, although she will sit down on her walks once she's had enough and wants to go home.",
+    "about": "Lovely Lucy is the sweetest girl who is friendly with everyone she meets! 7-year-old Lucy has diabetes so is looking for a home experienced with managing this condition. She needs her new family to be committed to regular vet visits and the ongoing treatment she will require. This is likely to incur additional costs to adopters so this should be kept in mind. She can potentially live with another calm, older dog pending a successful dog mix and can live with children over the age of 11.",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-11-18T14:53:55Z",
+    "image_one": "https://imgur.com/NLxSfhg",
+    "image_two": "https://imgur.com/bkpRV1M",
+    "image_three": null
+  }
+},
+{
   "model": "dogs.favorite",
   "pk": 1,
   "fields": {
