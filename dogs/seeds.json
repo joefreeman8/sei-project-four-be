@@ -779,6 +779,386 @@
   }
 },
 {
+  "model": "dogs.dog",
+  "pk": 42,
+  "fields": {
+    "name": "Angus",
+    "breed": "Crossbreed",
+    "age": "1 to 2 Years",
+    "sex": "Male",
+    "home_details": "Angus is looking for a home where he can have his own private secure garden to relax and play and adopters that are active so can they can keep up with him. He can be a strong boy so will need adopters that are comfortable with this and that have experience of bullbreeds.",
+    "about": "Handsome Angus is a 14 month old Staffy cross looking for his new home! He is a super sweet big baby who loves a fuss and a hug! He loves his food so this will be great for onoging training and he loves his toys too, especially if they're soft and fluffy! Angus loves to climb in the car so we're sure he would make a great adventure buddy!",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-23T12:05:13Z",
+    "image_one": "https://imgur.com/1fGtH8r",
+    "image_two": "https://imgur.com/0T9SPHt",
+    "image_three": "https://imgur.com/1fGtH8r"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 43,
+  "fields": {
+    "name": "Apache",
+    "breed": "Siberian Husky",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "Apache would like his own good sized private garden with 6ft solid fencing where he can relax and play to his heart's content! A home with breed experience is preferable for this characterful boy but if not then researching the breed and having knowledge is essential before applying.",
+    "about": "Like a typical husky, Apache loves being outdoors exploring and sniffing and he would love an equally active home that can take him on adventures of hiking in the hills! It can take time for Apache to build a bond with you but patience and tasty treats are definitely a winning combination to this brilliant boy's heart. Once he knows you Apache enjoys a good stroke and a gentle fuss...on his terms of course!",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-09T12:10:41Z",
+    "image_one": "https://imgur.com/pdoYuc5",
+    "image_two": "https://imgur.com/7jAqlms",
+    "image_three": "https://imgur.com/1Kt4PLT"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 44,
+  "fields": {
+    "name": "Beatrice",
+    "breed": "Greyhound",
+    "age": "8 and over",
+    "sex": "Female",
+    "home_details": "Due to her shy nature, she think Beatrice would benefit from a quiet home and any children should be over 16 years old as she is an older lady looking for some quiet time. As she seems to find small spaces more comforting, her new home must be non open plan so she can find her safe space.",
+    "about": "Beatrice is a sweet but shy 10 year old greyhound who loves going on adventures and exploring the world. She likes meeting calm dogs similar to her breed but she can be nervous of dogs who are a little over the top with her. She enjoys her food so this would be beneficial to building her confidence and a bond with you. After a long walk, she likes to have a gentle fuss from you and settle on a nice comfy bed.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-21T12:14:17Z",
+    "image_one": "https://imgur.com/Jve7gt4",
+    "image_two": "https://imgur.com/xuTleOH",
+    "image_three": "https://imgur.com/k4OnBtm"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 45,
+  "fields": {
+    "name": "Bram",
+    "breed": "Crossbreed",
+    "age": "2 to 5 Years",
+    "sex": "Male",
+    "home_details": "Bram has had quite an unsettled start to life and so will need very patient adopters that are willing to work with him, due to this he will need an adult only home with no visiting children. Bram will require his own private, large secure garden with constant outside access.",
+    "about": "Brilliant Bram is a 2 year-old Malinois cross with absolutely bags of potential! This super boy is so clever and loves to learn new things to add to his repertoire! Bram is also the best adventure buddy you can ever hope for and loves nothing more than to get in the car (where he settles brilliantly) and go on a nice long hike for a few hours in the hills or having a nice swim in a river.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-23T12:17:58Z",
+    "image_one": "https://imgur.com/MhGjliz",
+    "image_two": "https://imgur.com/3gjtOGJ",
+    "image_three": "https://imgur.com/IASECce"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 46,
+  "fields": {
+    "name": "Brynn",
+    "breed": "Lurcher",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "Brynn would suit a quiet home where he can have his own private secure garden. He is worried of lorries so will need his home to be setback from busy roads. Brynn can live with children aged 11 years and over who understand he may want his own space at times. Brynn can happily walk with other dogs.",
+    "about": "Brynn is a sweet 7 year old Lurcher who enjoys going on adventures and often likes to lead the way with his nose. He loves food especially yummy chews that he can relax on his bed chewing on! He also likes to play with toys and often chases anything that is thrown for him! Brynn can be shy initially but he does like a gentle fuss and will often lean into you when he wants scratches and attention!",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-12-25T12:21:57Z",
+    "image_one": "https://imgur.com/ELP0wGh",
+    "image_two": "https://imgur.com/ffOUx1K",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 47,
+  "fields": {
+    "name": "Ella",
+    "breed": "Rottweiler",
+    "age": "5 to 7 Years",
+    "sex": "Female",
+    "home_details": "Ella would like a calm, adult only home that has an understanding of Rottweilers. Ella would ideally like to be walked in quiet areas and in a low dog populated area as she is not comfortable with dogs getting too close - because of this she will be going home on a lead disclaimer which means she wi",
+    "about": "Ella is a beautiful 5 year old Rottweiler looking for a quiet home to call her own. She can be a shy girl at first but quickly builds a bond with you and her handlers can vouch for her playful and cheeky character! Although not keen on overhandling Ella does enjoy a gentle fuss and greets her handlers with a happy tail and leans in for a bum scratch.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-12-19T12:00:00Z",
+    "image_one": "https://imgur.com/tRJzBSt",
+    "image_two": "https://imgur.com/ccXmvor",
+    "image_three": "https://imgur.com/GXmRTVw"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 48,
+  "fields": {
+    "name": "Elphie",
+    "breed": "Pomeranian",
+    "age": "8 and over",
+    "sex": "Female",
+    "home_details": "Elphie is worried around children therefore can live with older children aged 16 and over. She can be worried around other dogs so will need to be the dog in the home. As Elphie has come from a home with someone at home all of the time she can struggle to be left so will need a multi carer household",
+    "about": "Elphie is a sensitive soul who is looking for owners who have a quiet lifestyle and can offer her a quiet, peaceful home. Despite being 14 years old, Elphie still gets excited to go out on walks and really enjoys exploring her local surroundings. Elphie is good in the car so could go out on adventures and explore further afield. She really enjoys sitting on the sofa with you and can often be found snoozing away the afternoons on there.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-11-30T12:00:00Z",
+    "image_one": "https://imgur.com/aBW7ycV",
+    "image_two": "https://imgur.com/0SFKjnw",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 49,
+  "fields": {
+    "name": "Freya",
+    "breed": "Siberian Husky",
+    "age": "5 to 7 Years",
+    "sex": "Female",
+    "home_details": "Freya will need an adult only home with no visiting children as she can be worried of them. She will need a secure garden that she can potter around and explore as she loves spending time in our secure compounds here at the centre. Breed experience would be preferred.",
+    "about": "Freya is a lovely 7 year old Husky , she is a sweet and energetic girl who will make for great company in her new home. Freya loves spending time with her favourite people and gets super excited when she knows she's coming out for a play and a walk! She is an active girl and will best suit a home wanting a dog to accompany them on fun adventures, she travels really well in the car so could travel for walks, she is a great dog to walk and walks alongside with you nicely.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-18T11:21:22Z",
+    "image_one": "https://imgur.com/xMJNttK",
+    "image_two": "https://imgur.com/QDEVr6a",
+    "image_three": "https://imgur.com/RZaohaz"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 50,
+  "fields": {
+    "name": "Gravy",
+    "breed": "Lurcher",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "Gravy has been very uncomfortable with dogs, although he can walk at a distance with dogs he is very tense up close and will growl if they get too close, he has managed to walk with other female Sighthounds but can be very intense. Gravy will need a home that has access to quiet walks.",
+    "about": "Gravy is a lovely, handsome 3 year old Lurcher who gets very excited to see his favourite people! He is a sweet boy with people and loves leaning into you for a fuss and cuddle! He loves his walks and always enjoys having his head to the ground sniffing, after a walk he loves coming back to his comfy bed where he can enjoy a tasty long lasting chew and have a snooze! He Is very motivated by food and his eyes light up when he sees treats are on offer!",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-11T12:33:24Z",
+    "image_one": "https://imgur.com/MKknVWD",
+    "image_two": "https://imgur.com/dPkAsI2",
+    "image_three": "https://imgur.com/RFEB1oA"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 51,
+  "fields": {
+    "name": "Gusty",
+    "breed": "Bulldog: English",
+    "age": "1 to 2 Years",
+    "sex": "Male",
+    "home_details": "Gusty is looking for a non open plan home that has a secure private garden. He does have the potential to car chase so needs a home that isn't on a main road and where his walks can also be away from traffic. He can live with children aged 16 years and over who are comfortable around bouncy dogs.",
+    "about": "Gusty is a super handsome 1 year old crossbreed looking for his new home. Gusty loves saying hello to everyone and having a good cuddle and a fuss! He loves to head out on his walks for a sniff and explore. Gusty likes to spend his time getting tasty treats from his favourite people or playing with his toys, especially stuffy ones!",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-23T12:35:26Z",
+    "image_one": "https://imgur.com/VRhYsko",
+    "image_two": "https://imgur.com/V2rip0c",
+    "image_three": "https://imgur.com/N2iFcFa"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 52,
+  "fields": {
+    "name": "Lady",
+    "breed": "Saluki",
+    "age": "1 to 2 Years",
+    "sex": "Female",
+    "home_details": "Lady would like her own private secure garden with 6ft fencing so she can play to her heart's content! As she can be a little shy she would like quiet areas she can be walked where minimal people would approach her and a home that can keep visitors to a minimum would also suit her best.",
+    "about": "Lady is a very sweet, sensitive 1 year old Saluki looking for her forever home. She is great fun and is most happy when she can run around, get a few tasty treats and have a fuss and a cuddle from her best friends! Lady has been a little shy initially but quickly comes round however she can be a little more worried around men. Lady is quite active and loves to be on the go, although she only has 3 legs she doesn't let this affect her and can very scooty and loves a game of chase!",
+    "can_live_with_dogs": true,
+    "can_live_with_cats": true,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-23T12:37:27Z",
+    "image_one": "https://imgur.com/UXLl0zf",
+    "image_two": "https://imgur.com/I1IioqX",
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 53,
+  "fields": {
+    "name": "Peanut",
+    "breed": "Staffordshire Cross",
+    "age": "2 to 5 Years",
+    "sex": "Female",
+    "home_details": "Peanut is looking for a home with adults only that would also like an active dog to keep up with them as she is a strong girl she will need adopters that are comfortable with a big/bouncy strong dog!",
+    "about": "Peanut is a fantastic 4-year-old crossbreed looking for a very active home to keep up with her energy levels. Peanut is a super lively girl who loves getting loads of fuss and attention from the people she knows. She is a very playful girl but can get over excited playing certain games! This can unfortunately result in her mouthing a lot, this has been seen both in kennels and a home environment, so adopters will need to feel comfortable dealing with this.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-11T12:39:52Z",
+    "image_one": "https://imgur.com/08BTt4N",
+    "image_two": "https://imgur.com/EVD4p6m",
+    "image_three": "https://imgur.com/Wableta"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 54,
+  "fields": {
+    "name": "Penny",
+    "breed": "Lurcher",
+    "age": "2 to 5 Years",
+    "sex": "Female",
+    "home_details": "It's important that Penny's adopters are patient and sensitive to her past. She will need all future training to be done in a positive manner with no force used. She can bark at strangers so would need access to quiet walks and would love zoomies in a secure field.",
+    "about": "Penny is a 3 year old saluki cross. She is stunning, with beautiful black eyeliner and lashes to die for, she would without doubt be a supermodel if she were human. Penny is adored by her handlers for her fun character, constantly making them laugh with her antics. She loves to travel in the car and going on adventures in new places, especially if there is the opportunity to have a paddle in a nearby lake.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-04T12:42:23Z",
+    "image_one": "https://imgur.com/3UYXUWj",
+    "image_two": "https://imgur.com/cTMLf1q",
+    "image_three": "https://imgur.com/xw9wqUS"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 55,
+  "fields": {
+    "name": "Pepsi",
+    "breed": "Jack Russell Terrier",
+    "age": "8 and over",
+    "sex": "Female",
+    "home_details": "Due to her nervous nature, Pepsi is looking for an adult only home that can keep visitors to a mimimum. Pepsi can find a lot of things overwhelming so it's going to take some time before she's ready for walks so adopters will need to be prepared for this.",
+    "about": "Lovely little Pepsi is a sweet and gentle 8 year old Jack Russell looking for a calm and patient home to help her find her paws and grow in confidence. Pepsi can take some time to get to know you and is not a big fan of overhandling, but once she trusts you she likes to put her little paws on your knee for a gentle fuss! Pepsi loves her food but especially loves her toys, especially tennis balls that she loves to chase over and over again!",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2021-12-13T12:45:33Z",
+    "image_one": "https://imgur.com/pWhKf3Y",
+    "image_two": "https://imgur.com/WZe9lHu",
+    "image_three": "https://imgur.com/0sfxXkp"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 56,
+  "fields": {
+    "name": "Pudge",
+    "breed": "Pug",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "Pudge does have a sensitive side and can get easily overwhelmed which he can show by being vocal. He can live with children aged 14 and over and his new family must be committed to his on-going training.",
+    "about": "Meet Pudge, a 6 year old pug x jack russell. Pudge can be a worried boy at times but is very affectionate to people that he knows and enjoys going on walks in quieter areas, where he can put his nose to the ground and follow all the different exciting smells. This cheeky chap will do anything for food and would love a family that can provide him with plenty of enrichment as he loves to keep busy.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-11-08T18:00:00Z",
+    "image_one": "https://imgur.com/y8UL1gn",
+    "image_two": "https://imgur.com/v4XI7qZ",
+    "image_three": "https://imgur.com/Y4YyZ5U"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 57,
+  "fields": {
+    "name": "Rex",
+    "breed": "Border Collie",
+    "age": "1 to 2 Years",
+    "sex": "Male",
+    "home_details": "Rex will need to go to an adult only home with people who preferably have collie experience, but if no experience, knowledge of the breed is essential. Adopters must be willing to work on his training, which will be demonstrated here at the centre.",
+    "about": "Lovely Rex, is a fantastic 1-year-old Border Collie with loads of potential in the right home that is committed to his ongoing training. Typical of the breed, Rex is super clever and loves to learn new things and is very food motivated - due to his young age and high energy, an active home that would enjoy a bit of a project to train and take on adventures would be ideal.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-10T12:53:14Z",
+    "image_one": "https://imgur.com/F7sd77g",
+    "image_two": "https://imgur.com/6WjKl83",
+    "image_three": "https://imgur.com/Ddfp8BQ"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 58,
+  "fields": {
+    "name": "Storm",
+    "breed": "Akita",
+    "age": "5 to 7 Years",
+    "sex": "Male",
+    "home_details": "Storm is looking for his own private, secure garden with at least 6ft fencing as he has previously tried to jump a fence. Storm could live with children 14 and over as he's a cuddly boy! As Storm has shown that he is unhappy with dogs running up to him he will need to be kept onlead and muzzled.",
+    "about": "Storm is a loving 5 years old Akita looking for his forever home. Storm is a real people's dog - he just loves a fuss and a cuddle and to be around you. When our staff head to get him out on a morning, he's bursting with happiness to get going with his day, jumping up to say hello and giving you a big kiss!",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2022-01-02T12:56:03Z",
+    "image_one": "https://imgur.com/hOIB6S4",
+    "image_two": "https://imgur.com/wVB4mq1",
+    "image_three": "https://imgur.com/5yGn5hO"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 59,
+  "fields": {
+    "name": "Tux",
+    "breed": "Greyhound",
+    "age": "1 to 2 Years",
+    "sex": "Male",
+    "home_details": "Tux will need a private secure garden with minimum 6ft fencing so that he can enjoy playtime as he may not want to go for walks initially whilst settling. Adopters should have experience of retired greyhounds and be patient and understanding with Tux, being around for most of the time initially.",
+    "about": "Tux is a super sweet 17 month old Greyhound with bags of character and a constant waggy tail. He loves to be in the company of people, enjoying a fuss and likes to say hello to other friendly dogs out and about. He likes going on adventures and is a playful lad with his toys but in true Greyhound style after a zoom around our compounds here he loves nothing more than a full tummy and the comfort of a snuggly duvet.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-23T12:57:30Z",
+    "image_one": "https://imgur.com/bWskMgc",
+    "image_two": "https://imgur.com/qHDfP4z",
+    "image_three": "https://imgur.com/JUMOg6o"
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 60,
+  "fields": {
+    "name": "Lexi",
+    "breed": "Jack Russell Terrier",
+    "age": "8 and over",
+    "sex": "Female",
+    "home_details": "Lexi is needing her own private secure garden to have a safe space to play offlead. She isn't used to being left for long hours and is quite clingy so will need adopters with minimal leaving hours initially and a non open plan home to help her settle.",
+    "about": "Lexi is a sweet 8 year old Jack Russell looking for a very special home. She has come from quite a sheltered background and is not very socialised around other dogs or people so will need patient and understanding adopters that can give her time to settle her paws. Once Lexi knows you well she enjoys sitting on your knee having a fuss or just chilling on a comfy bed with a chew! She also likes to head out on quiet walks where she can have a sniff and explore.",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": false,
+    "date_added": "2022-01-23T12:59:44Z",
+    "image_one": "https://imgur.com/NbXYIIU",
+    "image_two": null,
+    "image_three": null
+  }
+},
+{
+  "model": "dogs.dog",
+  "pk": 61,
+  "fields": {
+    "name": "Nellie",
+    "breed": "Parson Russell Terrier",
+    "age": "6 to 12 months",
+    "sex": "Female",
+    "home_details": "Nellie will need a super active home as she will keep you on your toes! Nellie is very friendly with dogs and loves meeting them out and about but she can be very over the top and does struggle to share resources so will need to be the only dog in the home.",
+    "about": "Nellie is a sweet little 11 month old Terrier who loves to be on the go! She is a super live wire who is always bounding around and springing in the air! Nellie is deaf so will need adopters that can do some research into this and use doggy hand signals. Nellie is very foodie and loves her treats so this will be great motivation for her training!",
+    "can_live_with_dogs": false,
+    "can_live_with_cats": false,
+    "can_live_with_kids": true,
+    "date_added": "2021-12-12T13:02:04Z",
+    "image_one": "https://imgur.com/2vPTshh",
+    "image_two": "https://imgur.com/bRgzI8O",
+    "image_three": "https://imgur.com/g4O2K0m"
+  }
+},
+{
   "model": "dogs.favorite",
   "pk": 1,
   "fields": {
