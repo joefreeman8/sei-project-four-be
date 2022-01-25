@@ -1,23 +1,23 @@
 [
-{
-  "model": "dogs.dog",
-  "pk": 1,
-  "fields": {
-    "name": "Boo",
-    "breed": "Greyhound",
-    "age": "5",
-    "sex": "Female",
-    "home_details": "Boo is looking for a nice quiet home where people will be around a lot of the time. She would love a garden to burn off some energy off in.",
-    "about": "Boo loves nothing more than sleeping, eating sausages and a going for brief walks. She is a small greyhound with a big personality. She is unphased by other dogs, but can be very watchful of other smaller animals.",
-    "can_live_with_dogs": true,
-    "can_live_with_cats": false,
-    "can_live_with_kids": false,
-    "date_added": "2022-01-22T16:45:53Z",
-    "image_one": "image",
-    "image_two": null,
-    "image_three": null
-  }
-},
+  {
+    "model": "dogs.dog",
+    "pk": 1,
+    "fields": {
+      "name": "Boo",
+      "breed": "Greyhound",
+      "age": "5",
+      "sex": "Female",
+      "home_details": "Boo is looking for a nice quiet home where people will be around a lot of the time. She would love a garden to burn off some energy off in.",
+      "about": "Boo loves nothing more than sleeping, eating sausages and a going for brief walks. She is a small greyhound with a big personality. She is unphased by other dogs, but can be very watchful of other smaller animals.",
+      "can_live_with_dogs": true,
+      "can_live_with_cats": false,
+      "can_live_with_kids": false,
+      "date_added": "2022-01-22T16:45:53Z",
+      "image_one": "https://imgur.com/RGu0g3W.jpg",
+      "image_two": null,
+      "image_three": null
+    }
+  },
 {
   "model": "dogs.dog",
   "pk": 2,
@@ -51,7 +51,7 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-02T16:51:13Z",
-    "image_one": "https://imgur.com/uiJLk0S",
+    "image_one": "https://imgur.com/uiJLk0S.jpg",
     "image_two": null,
     "image_three": null
   }
@@ -70,9 +70,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-06-01T16:52:26Z",
-    "image_one": "https://imgur.com/uqU7Q9g",
-    "image_two": "https://imgur.com/gP54s5G",
-    "image_three": "https://imgur.com/6JK3K2V"
+    "image_one": "https://imgur.com/uqU7Q9g.jpg",
+    "image_two": "https://imgur.com/gP54s5G.jpg",
+    "image_three": "https://imgur.com/6JK3K2V.jpg"
   }
 },
 {
@@ -89,8 +89,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-10-17T16:55:37Z",
-    "image_one": "https://imgur.com/8F8kJ9b",
-    "image_two": "https://imgur.com/pUABdv1",
+    "image_one": "https://imgur.com/8F8kJ9b.jpg",
+    "image_two": "https://imgur.com/pUABdv1.jpg",
     "image_three": null
   }
 },
@@ -108,7 +108,7 @@
     "can_live_with_cats": true,
     "can_live_with_kids": true,
     "date_added": "2022-01-22T16:58:04Z",
-    "image_one": "https://imgur.com/WKwDcD8",
+    "image_one": "https://imgur.com/WKwDcD8.jpg",
     "image_two": null,
     "image_three": null
   }
@@ -127,9 +127,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-08-16T16:59:50Z",
-    "image_one": "https://imgur.com/cVvWycH",
-    "image_two": "https://imgur.com/9OQiINe",
-    "image_three": "https://imgur.com/ZOHJPlg"
+    "image_one": "https://imgur.com/cVvWycH.jpg",
+    "image_two": "https://imgur.com/9OQiINe.jpg",
+    "image_three": "https://imgur.com/ZOHJPlg.jpg"
   }
 },
 {
@@ -146,9 +146,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-01-05T17:01:56Z",
-    "image_one": "https://imgur.com/P8S6j5q",
-    "image_two": "https://imgur.com/np8kXCO",
-    "image_three": "https://imgur.com/yNvotNc"
+    "image_one": "https://imgur.com/P8S6j5q.jpg",
+    "image_two": "https://imgur.com/np8kXCO.jpg",
+    "image_three": "https://imgur.com/yNvotNc.jpg"
   }
 },
 {
@@ -165,9 +165,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-11-07T17:08:15Z",
-    "image_one": "https://imgur.com/a6Rmc5a",
-    "image_two": "https://imgur.com/7IqUrtt",
-    "image_three": "https://imgur.com/5oLTswy"
+    "image_one": "https://imgur.com/a6Rmc5a.jpg",
+    "image_two": "https://imgur.com/7IqUrtt.jpg",
+    "image_three": "https://imgur.com/5oLTswy.jpg"
   }
 },
 {
@@ -184,9 +184,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-03T17:09:15Z",
-    "image_one": "https://imgur.com/icDhAVw",
-    "image_two": "https://imgur.com/4yjb8Ac",
-    "image_three": "https://imgur.com/KYJsm6q"
+    "image_one": "https://imgur.com/icDhAVw.jpg",
+    "image_two": "https://imgur.com/4yjb8Ac.jpg",
+    "image_three": "https://imgur.com/KYJsm6q.jpg"
   }
 },
 {
@@ -203,8 +203,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-12-25T17:10:56Z",
-    "image_one": "https://imgur.com/76mYNl3",
-    "image_two": "https://imgur.com/ONdWIFT",
+    "image_one": "https://imgur.com/76mYNl3.jpg",
+    "image_two": "https://imgur.com/ONdWIFT.jpg",
     "image_three": null
   }
 },
@@ -222,8 +222,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-10-05T17:12:27Z",
-    "image_one": "https://imgur.com/FRm9pSa",
-    "image_two": "https://imgur.com/DLXUCzr",
+    "image_one": "https://imgur.com/FRm9pSa.jpg",
+    "image_two": "https://imgur.com/DLXUCzr.jpg",
     "image_three": null
   }
 },
@@ -241,8 +241,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-11-14T17:13:53Z",
-    "image_one": "https://imgur.com/bHraev3",
-    "image_two": "https://imgur.com/LseAZp2",
+    "image_one": "https://imgur.com/bHraev3.jpg",
+    "image_two": "https://imgur.com/LseAZp2.jpg",
     "image_three": null
   }
 },
@@ -260,7 +260,7 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-03T17:14:48Z",
-    "image_one": "https://imgur.com/KETqRkc",
+    "image_one": "https://imgur.com/KETqRkc.jpg",
     "image_two": null,
     "image_three": null
   }
@@ -279,7 +279,7 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-11-14T17:19:31Z",
-    "image_one": "https://imgur.com/X6W96Uk",
+    "image_one": "https://imgur.com/X6W96Uk.jpg",
     "image_two": null,
     "image_three": null
   }
@@ -298,8 +298,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-01T17:21:11Z",
-    "image_one": "https://imgur.com/Nt6GrtT",
-    "image_two": "https://imgur.com/Zvnu3EQ",
+    "image_one": "https://imgur.com/Nt6GrtT.jpg",
+    "image_two": "https://imgur.com/Zvnu3EQ.jpg",
     "image_three": null
   }
 },
@@ -317,9 +317,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-10-18T17:22:20Z",
-    "image_one": "https://imgur.com/tWASLAu",
-    "image_two": "https://imgur.com/Rs5Qc1b",
-    "image_three": "https://imgur.com/JS1SGnq"
+    "image_one": "https://imgur.com/tWASLAu.jpg",
+    "image_two": "https://imgur.com/Rs5Qc1b.jpg",
+    "image_three": "https://imgur.com/JS1SGnq.jpg"
   }
 },
 {
@@ -336,7 +336,7 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-02T17:23:35Z",
-    "image_one": "https://imgur.com/pHvjvdP",
+    "image_one": "https://imgur.com/pHvjvdP.jpg",
     "image_two": null,
     "image_three": null
   }
@@ -355,8 +355,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-10T17:25:22Z",
-    "image_one": "https://imgur.com/NiTNUGv",
-    "image_two": "https://imgur.com/IhMm8Ml",
+    "image_one": "https://imgur.com/NiTNUGv.jpg",
+    "image_two": "https://imgur.com/IhMm8Ml.jpg",
     "image_three": null
   }
 },
@@ -374,8 +374,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-09T17:26:39Z",
-    "image_one": "https://imgur.com/ZwznOoV",
-    "image_two": "https://imgur.com/QahqNDV",
+    "image_one": "https://imgur.com/ZwznOoV.jpg",
+    "image_two": "https://imgur.com/QahqNDV.jpg",
     "image_three": null
   }
 },
@@ -393,8 +393,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-18T17:29:21Z",
-    "image_one": "https://imgur.com/GYodymV",
-    "image_two": "https://imgur.com/JQvNY8R",
+    "image_one": "https://imgur.com/GYodymV.jpg",
+    "image_two": "https://imgur.com/JQvNY8R.jpg",
     "image_three": null
   }
 },
@@ -412,8 +412,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-04T11:24:45Z",
-    "image_one": "https://imgur.com/rfsX1jS",
-    "image_two": "https://imgur.com/s0fXUh4",
+    "image_one": "https://imgur.com/rfsX1jS.jpg",
+    "image_two": "https://imgur.com/s0fXUh4.jpg",
     "image_three": null
   }
 },
@@ -422,7 +422,7 @@
   "pk": 23,
   "fields": {
     "name": "Bear",
-    "breed": "German Shepherd Dog (GSD / Als",
+    "breed": "German Shepherd",
     "age": "5 to 7 Years",
     "sex": "Male",
     "home_details": "Bear would enjoy a quiet home with a private garden for off lead activity and minimal visitors. Bear would prefer to be the only dog in the home but continue to be socialised on walks when appropriate. He can live with children 16 and over who can be mindful of his hips.",
@@ -431,7 +431,7 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-10T11:27:29Z",
-    "image_one": "https://imgur.com/AyA4FU3",
+    "image_one": "https://imgur.com/AyA4FU3.jpg",
     "image_two": null,
     "image_three": null
   }
@@ -441,7 +441,7 @@
   "pk": 24,
   "fields": {
     "name": "Bella",
-    "breed": "German Shepherd Dog (GSD / Als",
+    "breed": "German Shepherd",
     "age": "2 to 5 Years",
     "sex": "Female",
     "home_details": "Bella needs a home in a more rural environment. She is looking for an adult only home with minimal visitors who she will need to meet out and about before coming in. She will need an active family who are willing to continue training in the home. She has had very limited dog socialisation so will ne",
@@ -450,7 +450,7 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-23T11:28:17Z",
-    "image_one": "https://imgur.com/RSiU58W",
+    "image_one": "https://imgur.com/RSiU58W.jpg",
     "image_two": null,
     "image_three": null
   }
@@ -469,9 +469,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-05T11:29:13Z",
-    "image_one": "https://imgur.com/6gdamLc",
-    "image_two": "https://imgur.com/igBz4Ky",
-    "image_three": "https://imgur.com/zYEL8e0"
+    "image_one": "https://imgur.com/6gdamLc.jpg",
+    "image_two": "https://imgur.com/igBz4Ky.jpg",
+    "image_three": "https://imgur.com/zYEL8e0.jpg"
   }
 },
 {
@@ -488,9 +488,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-06T11:30:49Z",
-    "image_one": "https://imgur.com/RX9igMV",
-    "image_two": "https://imgur.com/L1WMBew",
-    "image_three": "https://imgur.com/T5tFhh8"
+    "image_one": "https://imgur.com/RX9igMV.jpg",
+    "image_two": "https://imgur.com/L1WMBew.jpg",
+    "image_three": "https://imgur.com/T5tFhh8.jpg"
   }
 },
 {
@@ -507,9 +507,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-20T11:32:45Z",
-    "image_one": "https://imgur.com/H0ptXU0",
-    "image_two": "https://imgur.com/64UnONg",
-    "image_three": "https://imgur.com/oj8N6mP"
+    "image_one": "https://imgur.com/H0ptXU0.jpg",
+    "image_two": "https://imgur.com/64UnONg.jpg",
+    "image_three": "https://imgur.com/oj8N6mP.jpg"
   }
 },
 {
@@ -526,8 +526,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-11T11:34:05Z",
-    "image_one": "https://imgur.com/lSOqYd1",
-    "image_two": "https://imgur.com/o8ZpNAH",
+    "image_one": "https://imgur.com/lSOqYd1.jpg",
+    "image_two": "https://imgur.com/o8ZpNAH.jpg",
     "image_three": null
   }
 },
@@ -545,9 +545,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-10T11:35:20Z",
-    "image_one": "https://imgur.com/0KjVwfZ",
-    "image_two": "https://imgur.com/4Ro3NN0",
-    "image_three": "https://imgur.com/jFvFCGW"
+    "image_one": "https://imgur.com/0KjVwfZ.jpg",
+    "image_two": "https://imgur.com/4Ro3NN0.jpg",
+    "image_three": "https://imgur.com/jFvFCGW.jpg"
   }
 },
 {
@@ -564,9 +564,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-02T11:36:36Z",
-    "image_one": "https://imgur.com/DpNjcqI",
-    "image_two": "https://imgur.com/AJzw8Nt",
-    "image_three": "https://imgur.com/gPYZ0R6"
+    "image_one": "https://imgur.com/DpNjcqI.jpg",
+    "image_two": "https://imgur.com/AJzw8Nt.jpg",
+    "image_three": "https://imgur.com/gPYZ0R6.jpg"
   }
 },
 {
@@ -574,7 +574,7 @@
   "pk": 31,
   "fields": {
     "name": "Jake",
-    "breed": "A Crossbreed",
+    "breed": "Crossbreed",
     "age": "5 to 7 Years",
     "sex": "Male",
     "home_details": "Jake needs new owners who are calm and patient and have time to invest in building his confidence and training, which he really enjoys! Jake will need his own private garden and must be the only pet in the home. He will need an adult only home with minimal leaving hours. He has been positively train",
@@ -583,9 +583,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-14T11:37:37Z",
-    "image_one": "https://imgur.com/4bpEQx2",
-    "image_two": "https://imgur.com/4po6yr2",
-    "image_three": "https://imgur.com/SU6SYRQ"
+    "image_one": "https://imgur.com/4bpEQx2.jpg",
+    "image_two": "https://imgur.com/4po6yr2.jpg",
+    "image_three": "https://imgur.com/SU6SYRQ.jpg"
   }
 },
 {
@@ -602,8 +602,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-06T11:39:18Z",
-    "image_one": "https://imgur.com/FMaFoO3",
-    "image_two": "https://imgur.com/CsTMc5z",
+    "image_one": "https://imgur.com/FMaFoO3.jpg",
+    "image_two": "https://imgur.com/CsTMc5z.jpg",
     "image_three": null
   }
 },
@@ -612,7 +612,7 @@
   "pk": 33,
   "fields": {
     "name": "Joseph",
-    "breed": "Staffordshire Bull Terrier (SB",
+    "breed": "Staffordshire Bull Terrier",
     "age": "8 and over",
     "sex": "Male",
     "home_details": "Joseph is looking for a home with his own private and secure garden as he isn't comfortable around other dogs so new owners must understand this. Any leaving hours will need to be built up gradually. It would be beneficial for Joseph to live in a quieter location and a low dog populated area. He cou",
@@ -621,9 +621,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-23T11:40:27Z",
-    "image_one": "https://imgur.com/Oifgi8m",
-    "image_two": "https://imgur.com/THlSNwk",
-    "image_three": "https://imgur.com/t2VYXFm"
+    "image_one": "https://imgur.com/Oifgi8m.jpg",
+    "image_two": "https://imgur.com/THlSNwk.jpg",
+    "image_three": "https://imgur.com/t2VYXFm.jpg"
   }
 },
 {
@@ -631,7 +631,7 @@
   "pk": 34,
   "fields": {
     "name": "Kane",
-    "breed": "Staffordshire Cross (SBT)",
+    "breed": "Staffordshire Cross",
     "age": "5 to 7 Years",
     "sex": "Male",
     "home_details": "Kane is looking for owners ready to give endless cuddles and love. He struggled being left in his previous home and will need people around all the time at first to slowly build this up. Kane can't live with cats and needs to be the only dog in the home. He needs access to a private secure garden, c",
@@ -640,7 +640,7 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-06T11:42:11Z",
-    "image_one": "https://imgur.com/Og2DDMB",
+    "image_one": "https://imgur.com/Og2DDMB.jpg",
     "image_two": null,
     "image_three": null
   }
@@ -659,9 +659,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-06T11:43:28Z",
-    "image_one": "https://imgur.com/tIuJhsL",
-    "image_two": "https://imgur.com/oHaOzkX",
-    "image_three": "https://imgur.com/2Ox2ccT"
+    "image_one": "https://imgur.com/tIuJhsL.jpg",
+    "image_two": "https://imgur.com/oHaOzkX.jpg",
+    "image_three": "https://imgur.com/2Ox2ccT.jpg"
   }
 },
 {
@@ -669,7 +669,7 @@
   "pk": 36,
   "fields": {
     "name": "Lola S",
-    "breed": "Staffordshire Bull Terrier (S",
+    "breed": "Staffordshire Bull Terrier",
     "age": "2 to 5 Years",
     "sex": "Female",
     "home_details": "She would love a quiet adult only home without too many visitors initally, no more than a 3 person household, where she will find it easier to settle in. Lola is looking to be the only dog in the home. Lola is a young, active girl, so is hoping to go on lovely long walks in quiet areas where she doe",
@@ -678,9 +678,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-03T11:45:14Z",
-    "image_one": "https://imgur.com/i1SVVV3",
-    "image_two": "https://imgur.com/cd2DD9d",
-    "image_three": "https://imgur.com/9HDkp8N"
+    "image_one": "https://imgur.com/i1SVVV3.jpg",
+    "image_two": "https://imgur.com/cd2DD9d.jpg",
+    "image_three": "https://imgur.com/9HDkp8N.jpg"
   }
 },
 {
@@ -697,9 +697,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-19T11:45:55Z",
-    "image_one": "https://imgur.com/mdenBko",
-    "image_two": "https://imgur.com/nJsIQiT",
-    "image_three": "https://imgur.com/o6yxjTP"
+    "image_one": "https://imgur.com/mdenBko.jpg",
+    "image_two": "https://imgur.com/nJsIQiT.jpg",
+    "image_three": "https://imgur.com/o6yxjTP.jpg"
   }
 },
 {
@@ -707,7 +707,7 @@
   "pk": 38,
   "fields": {
     "name": "Max",
-    "breed": "Staffordshire Bull Terrier (SB",
+    "breed": "Staffordshire Bull Terrier",
     "age": "5 to 7 Years",
     "sex": "Male",
     "home_details": "Max is young energetic boy who finds some situations really exciting. His ideal home should be actively involved in training to help Max use his potential. He finds being alone stressful so owners with minimal leaving hours are his match made in heaven. Max can only be the only dog in the home, no c",
@@ -716,7 +716,7 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-05T11:47:00Z",
-    "image_one": "https://imgur.com/P3ADQSr",
+    "image_one": "https://imgur.com/P3ADQSr.jpg",
     "image_two": null,
     "image_three": null
   }
@@ -735,9 +735,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-02T11:49:24Z",
-    "image_one": "https://imgur.com/pOzfGHG",
-    "image_two": "https://imgur.com/STHCn6a",
-    "image_three": "https://imgur.com/fnAKuGg"
+    "image_one": "https://imgur.com/pOzfGHG.jpg",
+    "image_two": "https://imgur.com/STHCn6a.jpg",
+    "image_three": "https://imgur.com/fnAKuGg.jpg"
   }
 },
 {
@@ -754,8 +754,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-05T11:50:47Z",
-    "image_one": "https://imgur.com/cFf0yRb",
-    "image_two": "https://imgur.com/BYpv4sn",
+    "image_one": "https://imgur.com/cFf0yRb.jpg",
+    "image_two": "https://imgur.com/BYpv4sn.jpg",
     "image_three": null
   }
 },
@@ -773,9 +773,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-12T11:51:56Z",
-    "image_one": "https://imgur.com/YoIYqh4",
-    "image_two": "https://imgur.com/5Jzbw8K",
-    "image_three": "https://imgur.com/Qhku2Gu"
+    "image_one": "https://imgur.com/YoIYqh4.jpg",
+    "image_two": "https://imgur.com/5Jzbw8K.jpg",
+    "image_three": "https://imgur.com/Qhku2Gu.jpg"
   }
 },
 {
@@ -792,9 +792,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-23T12:05:13Z",
-    "image_one": "https://imgur.com/1fGtH8r",
-    "image_two": "https://imgur.com/0T9SPHt",
-    "image_three": "https://imgur.com/1fGtH8r"
+    "image_one": "https://imgur.com/1fGtH8r.jpg",
+    "image_two": "https://imgur.com/0T9SPHt.jpg",
+    "image_three": "https://imgur.com/1fGtH8r.jpg"
   }
 },
 {
@@ -811,9 +811,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-09T12:10:41Z",
-    "image_one": "https://imgur.com/pdoYuc5",
-    "image_two": "https://imgur.com/7jAqlms",
-    "image_three": "https://imgur.com/1Kt4PLT"
+    "image_one": "https://imgur.com/pdoYuc5.jpg",
+    "image_two": "https://imgur.com/7jAqlms.jpg",
+    "image_three": "https://imgur.com/1Kt4PLT.jpg"
   }
 },
 {
@@ -830,9 +830,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-21T12:14:17Z",
-    "image_one": "https://imgur.com/Jve7gt4",
-    "image_two": "https://imgur.com/xuTleOH",
-    "image_three": "https://imgur.com/k4OnBtm"
+    "image_one": "https://imgur.com/Jve7gt4.jpg",
+    "image_two": "https://imgur.com/xuTleOH.jpg",
+    "image_three": "https://imgur.com/k4OnBtm.jpg"
   }
 },
 {
@@ -849,9 +849,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-23T12:17:58Z",
-    "image_one": "https://imgur.com/MhGjliz",
-    "image_two": "https://imgur.com/3gjtOGJ",
-    "image_three": "https://imgur.com/IASECce"
+    "image_one": "https://imgur.com/MhGjliz.jpg",
+    "image_two": "https://imgur.com/3gjtOGJ.jpg",
+    "image_three": "https://imgur.com/IASECce.jpg"
   }
 },
 {
@@ -868,8 +868,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-12-25T12:21:57Z",
-    "image_one": "https://imgur.com/ELP0wGh",
-    "image_two": "https://imgur.com/ffOUx1K",
+    "image_one": "https://imgur.com/ELP0wGh.jpg",
+    "image_two": "https://imgur.com/ffOUx1K.jpg",
     "image_three": null
   }
 },
@@ -887,9 +887,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-12-19T12:00:00Z",
-    "image_one": "https://imgur.com/tRJzBSt",
-    "image_two": "https://imgur.com/ccXmvor",
-    "image_three": "https://imgur.com/GXmRTVw"
+    "image_one": "https://imgur.com/tRJzBSt.jpg",
+    "image_two": "https://imgur.com/ccXmvor.jpg",
+    "image_three": "https://imgur.com/GXmRTVw.jpg"
   }
 },
 {
@@ -906,8 +906,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-11-30T12:00:00Z",
-    "image_one": "https://imgur.com/aBW7ycV",
-    "image_two": "https://imgur.com/0SFKjnw",
+    "image_one": "https://imgur.com/aBW7ycV.jpg",
+    "image_two": "https://imgur.com/0SFKjnw.jpg",
     "image_three": null
   }
 },
@@ -925,9 +925,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-18T11:21:22Z",
-    "image_one": "https://imgur.com/xMJNttK",
-    "image_two": "https://imgur.com/QDEVr6a",
-    "image_three": "https://imgur.com/RZaohaz"
+    "image_one": "https://imgur.com/xMJNttK.jpg",
+    "image_two": "https://imgur.com/QDEVr6a.jpg",
+    "image_three": "https://imgur.com/RZaohaz.jpg"
   }
 },
 {
@@ -944,9 +944,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-11T12:33:24Z",
-    "image_one": "https://imgur.com/MKknVWD",
-    "image_two": "https://imgur.com/dPkAsI2",
-    "image_three": "https://imgur.com/RFEB1oA"
+    "image_one": "https://imgur.com/MKknVWD.jpg",
+    "image_two": "https://imgur.com/dPkAsI2.jpg",
+    "image_three": "https://imgur.com/RFEB1oA.jpg"
   }
 },
 {
@@ -963,9 +963,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-23T12:35:26Z",
-    "image_one": "https://imgur.com/VRhYsko",
-    "image_two": "https://imgur.com/V2rip0c",
-    "image_three": "https://imgur.com/N2iFcFa"
+    "image_one": "https://imgur.com/VRhYsko.jpg",
+    "image_two": "https://imgur.com/V2rip0c.jpg",
+    "image_three": "https://imgur.com/N2iFcFa.jpg"
   }
 },
 {
@@ -982,8 +982,8 @@
     "can_live_with_cats": true,
     "can_live_with_kids": true,
     "date_added": "2022-01-23T12:37:27Z",
-    "image_one": "https://imgur.com/UXLl0zf",
-    "image_two": "https://imgur.com/I1IioqX",
+    "image_one": "https://imgur.com/UXLl0zf.jpg",
+    "image_two": "https://imgur.com/I1IioqX.jpg",
     "image_three": null
   }
 },
@@ -1001,9 +1001,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-11T12:39:52Z",
-    "image_one": "https://imgur.com/08BTt4N",
-    "image_two": "https://imgur.com/EVD4p6m",
-    "image_three": "https://imgur.com/Wableta"
+    "image_one": "https://imgur.com/08BTt4N.jpg",
+    "image_two": "https://imgur.com/EVD4p6m.jpg",
+    "image_three": "https://imgur.com/Wableta.jpg"
   }
 },
 {
@@ -1020,9 +1020,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-04T12:42:23Z",
-    "image_one": "https://imgur.com/3UYXUWj",
-    "image_two": "https://imgur.com/cTMLf1q",
-    "image_three": "https://imgur.com/xw9wqUS"
+    "image_one": "https://imgur.com/3UYXUWj.jpg",
+    "image_two": "https://imgur.com/cTMLf1q.jpg",
+    "image_three": "https://imgur.com/xw9wqUS.jpg"
   }
 },
 {
@@ -1039,9 +1039,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-12-13T12:45:33Z",
-    "image_one": "https://imgur.com/pWhKf3Y",
-    "image_two": "https://imgur.com/WZe9lHu",
-    "image_three": "https://imgur.com/0sfxXkp"
+    "image_one": "https://imgur.com/pWhKf3Y.jpg",
+    "image_two": "https://imgur.com/WZe9lHu.jpg",
+    "image_three": "https://imgur.com/0sfxXkp.jpg"
   }
 },
 {
@@ -1058,9 +1058,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-11-08T18:00:00Z",
-    "image_one": "https://imgur.com/y8UL1gn",
-    "image_two": "https://imgur.com/v4XI7qZ",
-    "image_three": "https://imgur.com/Y4YyZ5U"
+    "image_one": "https://imgur.com/y8UL1gn.jpg",
+    "image_two": "https://imgur.com/v4XI7qZ.jpg",
+    "image_three": "https://imgur.com/Y4YyZ5U.jpg"
   }
 },
 {
@@ -1077,9 +1077,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-10T12:53:14Z",
-    "image_one": "https://imgur.com/F7sd77g",
-    "image_two": "https://imgur.com/6WjKl83",
-    "image_three": "https://imgur.com/Ddfp8BQ"
+    "image_one": "https://imgur.com/F7sd77g.jpg",
+    "image_two": "https://imgur.com/6WjKl83.jpg",
+    "image_three": "https://imgur.com/Ddfp8BQ.jpg"
   }
 },
 {
@@ -1096,9 +1096,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-02T12:56:03Z",
-    "image_one": "https://imgur.com/hOIB6S4",
-    "image_two": "https://imgur.com/wVB4mq1",
-    "image_three": "https://imgur.com/5yGn5hO"
+    "image_one": "https://imgur.com/hOIB6S4.jpg",
+    "image_two": "https://imgur.com/wVB4mq1.jpg",
+    "image_three": "https://imgur.com/5yGn5hO.jpg"
   }
 },
 {
@@ -1115,9 +1115,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-23T12:57:30Z",
-    "image_one": "https://imgur.com/bWskMgc",
-    "image_two": "https://imgur.com/qHDfP4z",
-    "image_three": "https://imgur.com/JUMOg6o"
+    "image_one": "https://imgur.com/bWskMgc.jpg",
+    "image_two": "https://imgur.com/qHDfP4z.jpg",
+    "image_three": "https://imgur.com/JUMOg6o.jpg"
   }
 },
 {
@@ -1134,7 +1134,7 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-23T12:59:44Z",
-    "image_one": "https://imgur.com/NbXYIIU",
+    "image_one": "https://imgur.com/NbXYIIU.jpg",
     "image_two": null,
     "image_three": null
   }
@@ -1153,9 +1153,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-12-12T13:02:04Z",
-    "image_one": "https://imgur.com/2vPTshh",
-    "image_two": "https://imgur.com/bRgzI8O",
-    "image_three": "https://imgur.com/g4O2K0m"
+    "image_one": "https://imgur.com/2vPTshh.jpg",
+    "image_two": "https://imgur.com/bRgzI8O.jpg",
+    "image_three": "https://imgur.com/g4O2K0m.jpg"
   }
 },
 {
@@ -1172,9 +1172,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-02T13:37:57Z",
-    "image_one": "https://imgur.com/PyjixZY",
-    "image_two": "https://imgur.com/05cRUHA",
-    "image_three": "https://imgur.com/rGCoJfT"
+    "image_one": "https://imgur.com/PyjixZY.jpg",
+    "image_two": "https://imgur.com/05cRUHA.jpg",
+    "image_three": "https://imgur.com/rGCoJfT.jpg"
   }
 },
 {
@@ -1182,7 +1182,7 @@
   "pk": 63,
   "fields": {
     "name": "Arnie",
-    "breed": "Staffordshire Cross (SBT)",
+    "breed": "Staffordshire Cross",
     "age": "8 and over",
     "sex": "Male",
     "home_details": "An older Dog, looking for a nice and quiet retirement home. He really likes his human company and gets distressed when left alone so will need someone to be at home at all times. Arnie can be a little unsure of handling so his new family have to take things slowly until he is fully comfortable.",
@@ -1191,7 +1191,7 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-17T14:07:38Z",
-    "image_one": "https://imgur.com/gCd5Vlk",
+    "image_one": "https://imgur.com/gCd5Vlk.jpg",
     "image_two": null,
     "image_three": null
   }
@@ -1210,9 +1210,9 @@
     "can_live_with_cats": true,
     "can_live_with_kids": true,
     "date_added": "2022-01-20T14:09:48Z",
-    "image_one": "https://imgur.com/ltfNuiV",
-    "image_two": "https://imgur.com/N7wauQw",
-    "image_three": "https://imgur.com/UThLbNK"
+    "image_one": "https://imgur.com/ltfNuiV.jpg",
+    "image_two": "https://imgur.com/N7wauQw.jpg",
+    "image_three": "https://imgur.com/UThLbNK.jpg"
   }
 },
 {
@@ -1229,9 +1229,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-12-24T14:12:23Z",
-    "image_one": "https://imgur.com/Iozn6Ub",
-    "image_two": "https://imgur.com/yLgtn88",
-    "image_three": "https://imgur.com/nuCX6aT"
+    "image_one": "https://imgur.com/Iozn6Ub.jpg",
+    "image_two": "https://imgur.com/yLgtn88.jpg",
+    "image_three": "https://imgur.com/nuCX6aT.jpg"
   }
 },
 {
@@ -1248,9 +1248,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-11-20T14:15:27Z",
-    "image_one": "https://imgur.com/wyQQMC4",
-    "image_two": "https://imgur.com/ZfxovE5",
-    "image_three": "https://imgur.com/aHEPZBa"
+    "image_one": "https://imgur.com/wyQQMC4.jpg",
+    "image_two": "https://imgur.com/ZfxovE5.jpg",
+    "image_three": "https://imgur.com/aHEPZBa.jpg"
   }
 },
 {
@@ -1267,9 +1267,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-18T14:17:37Z",
-    "image_one": "https://imgur.com/3opPNgs",
-    "image_two": "https://imgur.com/IDPoJHP",
-    "image_three": "https://imgur.com/Xl13Sgf"
+    "image_one": "https://imgur.com/3opPNgs.jpg",
+    "image_two": "https://imgur.com/IDPoJHP.jpg",
+    "image_three": "https://imgur.com/Xl13Sgf.jpg"
   }
 },
 {
@@ -1286,9 +1286,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-12-09T14:20:47Z",
-    "image_one": "https://imgur.com/GAuBpZL",
-    "image_two": "https://imgur.com/4b6Xm6c",
-    "image_three": "https://imgur.com/EdlbLop"
+    "image_one": "https://imgur.com/GAuBpZL.jpg",
+    "image_two": "https://imgur.com/4b6Xm6c.jpg",
+    "image_three": "https://imgur.com/EdlbLop.jpg"
   }
 },
 {
@@ -1305,9 +1305,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-02T06:00:00Z",
-    "image_one": "https://imgur.com/orP4bXh",
-    "image_two": "https://imgur.com/370D3LN",
-    "image_three": "https://imgur.com/18j8mYS"
+    "image_one": "https://imgur.com/orP4bXh.jpg",
+    "image_two": "https://imgur.com/370D3LN.jpg",
+    "image_three": "https://imgur.com/18j8mYS.jpg"
   }
 },
 {
@@ -1315,7 +1315,7 @@
   "pk": 70,
   "fields": {
     "name": "Maisy",
-    "breed": "Jack Russell Terrier (JRT)",
+    "breed": "Jack Russell Terrier",
     "age": "5 to 7 Years",
     "sex": "Female",
     "home_details": "From the history we have on her she needs a single person household with no pets at home. She needs you to be home all day with her as is distressed when she can't be around someone she knows.",
@@ -1324,9 +1324,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-11-13T14:26:07Z",
-    "image_one": "https://imgur.com/5uBzVMb",
-    "image_two": "https://imgur.com/P0xeFkI",
-    "image_three": "https://imgur.com/eYgByY2"
+    "image_one": "https://imgur.com/5uBzVMb.jpg",
+    "image_two": "https://imgur.com/P0xeFkI.jpg",
+    "image_three": "https://imgur.com/eYgByY2.jpg"
   }
 },
 {
@@ -1343,9 +1343,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-12T00:00:00Z",
-    "image_one": "https://imgur.com/O43uimo",
-    "image_two": "https://imgur.com/ZRnC22F",
-    "image_three": "https://imgur.com/4EqAsp5"
+    "image_one": "https://imgur.com/O43uimo.jpg",
+    "image_two": "https://imgur.com/ZRnC22F.jpg",
+    "image_three": "https://imgur.com/4EqAsp5.jpg"
   }
 },
 {
@@ -1362,9 +1362,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-20T12:00:00Z",
-    "image_one": "https://imgur.com/cQqe47k",
-    "image_two": "https://imgur.com/Wt9RG3a",
-    "image_three": "https://imgur.com/IdWCzrT"
+    "image_one": "https://imgur.com/cQqe47k.jpg",
+    "image_two": "https://imgur.com/Wt9RG3a.jpg",
+    "image_three": "https://imgur.com/IdWCzrT.jpg"
   }
 },
 {
@@ -1381,9 +1381,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-12-31T14:33:37Z",
-    "image_one": "https://imgur.com/Ixo5a1E",
-    "image_two": "https://imgur.com/Xy5DJ4B",
-    "image_three": "https://imgur.com/VTgbsW5"
+    "image_one": "https://imgur.com/Ixo5a1E.jpg",
+    "image_two": "https://imgur.com/Xy5DJ4B.jpg",
+    "image_three": "https://imgur.com/VTgbsW5.jpg"
   }
 },
 {
@@ -1400,9 +1400,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2022-01-01T14:35:59Z",
-    "image_one": "https://imgur.com/InZdh2C",
-    "image_two": "https://imgur.com/GBYAzsf",
-    "image_three": "https://imgur.com/QvteJf2"
+    "image_one": "https://imgur.com/InZdh2C.jpg",
+    "image_two": "https://imgur.com/GBYAzsf.jpg",
+    "image_three": "https://imgur.com/QvteJf2.jpg"
   }
 },
 {
@@ -1419,9 +1419,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-12-14T14:40:20Z",
-    "image_one": "https://imgur.com/VDeOJR6",
-    "image_two": "https://imgur.com/QdWuaUT",
-    "image_three": "https://imgur.com/ykKMbZZ"
+    "image_one": "https://imgur.com/VDeOJR6.jpg",
+    "image_two": "https://imgur.com/QdWuaUT.jpg",
+    "image_three": "https://imgur.com/ykKMbZZ.jpg"
   }
 },
 {
@@ -1438,9 +1438,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": false,
     "date_added": "2021-12-24T14:42:41Z",
-    "image_one": "https://imgur.com/1c3UkF2",
-    "image_two": "https://imgur.com/DuboOMx",
-    "image_three": "https://imgur.com/eY96zBn"
+    "image_one": "https://imgur.com/1c3UkF2.jpg",
+    "image_two": "https://imgur.com/DuboOMx.jpg",
+    "image_three": "https://imgur.com/eY96zBn.jpg"
   }
 },
 {
@@ -1457,8 +1457,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-12-03T14:45:55Z",
-    "image_one": "https://imgur.com/DAFGjG6",
-    "image_two": "https://imgur.com/1MWdjMw",
+    "image_one": "https://imgur.com/DAFGjG6.jpg",
+    "image_two": "https://imgur.com/1MWdjMw.jpg",
     "image_three": null
   }
 },
@@ -1476,9 +1476,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-09T14:48:45Z",
-    "image_one": "https://imgur.com/dqbbe3H",
-    "image_two": "https://imgur.com/WhK1hGl",
-    "image_three": "https://imgur.com/JrxX208"
+    "image_one": "https://imgur.com/dqbbe3H.jpg",
+    "image_two": "https://imgur.com/WhK1hGl.jpg",
+    "image_three": "https://imgur.com/JrxX208.jpg"
   }
 },
 {
@@ -1495,9 +1495,9 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2022-01-16T14:50:23Z",
-    "image_one": "https://imgur.com/lebCjYy",
-    "image_two": "https://imgur.com/g2FU6Zc",
-    "image_three": "https://imgur.com/YFyWxKt"
+    "image_one": "https://imgur.com/lebCjYy.jpg",
+    "image_two": "https://imgur.com/g2FU6Zc.jpg",
+    "image_three": "https://imgur.com/YFyWxKt.jpg"
   }
 },
 {
@@ -1514,8 +1514,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-10-20T14:52:32Z",
-    "image_one": "https://imgur.com/Mxur5pt",
-    "image_two": "https://imgur.com/kBttOlv",
+    "image_one": "https://imgur.com/Mxur5pt.jpg",
+    "image_two": "https://imgur.com/kBttOlv.jpg",
     "image_three": null
   }
 },
@@ -1533,8 +1533,8 @@
     "can_live_with_cats": false,
     "can_live_with_kids": true,
     "date_added": "2021-11-18T14:53:55Z",
-    "image_one": "https://imgur.com/NLxSfhg",
-    "image_two": "https://imgur.com/bkpRV1M",
+    "image_one": "https://imgur.com/NLxSfhg.jpg",
+    "image_two": "https://imgur.com/bkpRV1M.jpg",
     "image_three": null
   }
 },
