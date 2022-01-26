@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 from rest_framework.views import APIView
 from rest_framework.response import Response
-from rest_framework.generics import CreateAPIView, RetrieveAPIView
+from rest_framework.generics import CreateAPIView, RetrieveDestroyAPIView
 from rest_framework.exceptions import PermissionDenied
 from rest_framework.permissions import IsAuthenticated
 from django.contrib.auth import get_user_model
@@ -46,7 +46,7 @@ class UserLoginView(APIView):
         })
 
 
-class UserProfileView(RetrieveAPIView):
+class UserProfileView(RetrieveDestroyAPIView):
     '''View for User Profile'''
 
     queryset = User.objects.all()
