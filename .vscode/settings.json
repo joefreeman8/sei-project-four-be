@@ -1,4 +1,14 @@
 {
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#5823f7",
+    "titleBar.activeBackground": "#5823f7",
+    "titleBar.inactiveBackground": "#5823f7",
+    "statusBar.foreground": "#d7d7d7",
+    "titleBar.inactiveForeground": "#d7d7d7",
+    "titleBar.activeForeground": "#d7d7d7",
+  },
+  "window.title": "PROJECT - 4 - BACKEND",
+
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": true
 }
